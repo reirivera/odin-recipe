@@ -1,3 +1,3 @@
 # odin-recipe
 
-RECIPE TAKS
+RECIPE task
